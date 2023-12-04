@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    color:black;
+    font-size:100px;
+    text-align:center;
+}
+div{
+    margin:20px;
+    padding:20px
+
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+main{
+    background-image:url(../collection/roberto-h-qToVxSYXPYU-unsplash.jpg);
+    background-attachment: fixed;
+}
+footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+    background-position: fixed;
+    text-align:left;
+}
